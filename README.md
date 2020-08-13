@@ -14,16 +14,19 @@ Webpage to monitor and control agricultural field  and motor would be delivered 
 
 
 ### NODERED FLOW:
-![alt text](https://github.com/SmartPracticeschool/llSPS-INT-797-Smart-Agriculture-system-based-on-IoT/blob/master/images/image_1.png?raw=true)
+![alt text](https://github.com/SmartPracticeschool/llSPS-INT-797-Smart-Agriculture-system-based-on-IoT/blob/master/images/Slide1.jpg?raw=true)
 
 ### NODERED:
+![alt text](https://github.com/SmartPracticeschool/llSPS-INT-797-Smart-Agriculture-system-based-on-IoT/blob/master/images/image_1.png?raw=true)
 
 ### DASHBOARD:
+![alt text](https://github.com/SmartPracticeschool/llSPS-INT-797-Smart-Agriculture-system-based-on-IoT/blob/master/images/image_2.png?raw=true)
 
 ### PYTHON ILDE RECIEVING COMMANDS FROM NODERED UI:
+![alt text](https://github.com/SmartPracticeschool/llSPS-INT-797-Smart-Agriculture-system-based-on-IoT/blob/master/images/image_3.png?raw=true)
 
 ### IBM WATSON IOT SIMULATOR:
-
+![alt text](https://github.com/SmartPracticeschool/llSPS-INT-797-Smart-Agriculture-system-based-on-IoT/blob/master/images/image_4.png?raw=true)
 
 ### Presentation Video Link: 
 https://youtu.be/g3AFbK7j2A0
