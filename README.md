@@ -14,6 +14,7 @@ Webpage to monitor and control agricultural field  and motor would be delivered 
 
 
 ### NODERED FLOW:
+![alt text](https://github.com/SmartPracticeschool/llSPS-INT-797-Smart-Agriculture-system-based-on-IoT/blob/master/images/image_1.png?raw=true)
 
 ### NODERED:
 
